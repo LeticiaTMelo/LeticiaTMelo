@@ -25,10 +25,10 @@ Desenvolvedora .NET focada em construir aplicações web com ASP.NET Core, Entit
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=githubactions&logoColor=white)
 
-## Estatísticas (substitua USERNAME pelo seu usuário)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
+## Estatísticas 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Letícia&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Letícia&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Letícia&theme=radical)
 
 ## Contato
 - LinkedIn: www.linkedin.com/in/letícia-toledo-melo-a95a91206
